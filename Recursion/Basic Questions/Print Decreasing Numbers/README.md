@@ -1,1 +1,1 @@
-Print Decreasing Numbers a given input to 1 using Recursion.
+Print Decreasing Numbers from a given input to 1 using Recursion.
