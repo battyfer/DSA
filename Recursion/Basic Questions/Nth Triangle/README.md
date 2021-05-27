@@ -1,3 +1,3 @@
-Take as input N, the size of array. Take N more inputs and store that in an array. Write a
-recursive function which returns true if the array is sorted and false otherwise. Print the value
+Take as input N, a number. Write a recursive function to find Nth triangle where 1st triangle
+is 1, 2nd triangle is 1 + 2 = 3, 3rd triangle is 1 + 2 + 3 = 6, so on and so forth. Print the value
 returned.
