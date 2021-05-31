@@ -1,1 +1,1 @@
-Calculate power of a no. using Recursion.
+Calculate power of a given number using Recursion.
